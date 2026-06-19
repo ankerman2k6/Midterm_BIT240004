@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MidTermBIT240004.props" />
+</Project>
